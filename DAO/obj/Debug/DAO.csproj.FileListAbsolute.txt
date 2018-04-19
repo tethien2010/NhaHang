@@ -1,0 +1,7 @@
+D:\project\Hoc tap\NhaHang\DAO\bin\Debug\DAO.dll
+D:\project\Hoc tap\NhaHang\DAO\bin\Debug\DAO.pdb
+D:\project\Hoc tap\NhaHang\DAO\obj\Debug\DAO.dll
+D:\project\Hoc tap\NhaHang\DAO\obj\Debug\DAO.pdb
+D:\project\Hoc tap\NhaHang\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\project\Hoc tap\NhaHang\DAO\bin\Debug\DTO.dll
+D:\project\Hoc tap\NhaHang\DAO\bin\Debug\DTO.pdb

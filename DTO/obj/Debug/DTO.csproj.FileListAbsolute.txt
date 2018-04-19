@@ -1,0 +1,4 @@
+D:\project\Hoc tap\NhaHang\DTO\bin\Debug\DTO.dll
+D:\project\Hoc tap\NhaHang\DTO\bin\Debug\DTO.pdb
+D:\project\Hoc tap\NhaHang\DTO\obj\Debug\DTO.dll
+D:\project\Hoc tap\NhaHang\DTO\obj\Debug\DTO.pdb

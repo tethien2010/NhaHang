@@ -1,0 +1,9 @@
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\BUS.dll
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\BUS.pdb
+D:\project\Hoc tap\NhaHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\project\Hoc tap\NhaHang\BUS\obj\Debug\BUS.dll
+D:\project\Hoc tap\NhaHang\BUS\obj\Debug\BUS.pdb
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\DAO.dll
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\DAO.pdb
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\DTO.dll
+D:\project\Hoc tap\NhaHang\BUS\bin\Debug\DTO.pdb
